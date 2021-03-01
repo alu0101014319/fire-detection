@@ -1,0 +1,12 @@
+{
+    "name": "fire-detection",
+    "version": "1.0.0",
+    "description": "Fire Detection Web",
+    "scripts": {
+        "start": "node web-server/app.js"
+    },
+    "author": "Eduardo Estévez Rodríguez",
+    "dependencies": {
+        "express": "4.13.3"
+    }
+}
